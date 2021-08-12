@@ -72,7 +72,7 @@ def test_file_load_json(mocker, testdatadir) -> None:
     (".XBTBON2H", '_XBTBON2H'),
     ("ETHUSD.d", 'ETHUSD_d'),
     ("ADA-0327", 'ADA_0327'),
-    ("BTC-USD-200110", 'BTC_USD_200110'),
+    ("BTC-200110", 'BTC_200110'),
     ("F-AKRO/USDT", 'F_AKRO_USDT'),
     ("LC+/ETH", 'LC__ETH'),
     ("CMT@18/ETH", 'CMT_18_ETH'),
